@@ -28,7 +28,7 @@
       - Example with parallel SDMs
    - If there's time - code profiling, troubleshooting, extending R with C++
    
-   [//]: # References
+   [//]: # (References)
    
    [manati]: <http://iiap.org.pe/web/carcap.aspx>
    [pbs]: <http://www.arc.ox.ac.uk/content/pbs>
